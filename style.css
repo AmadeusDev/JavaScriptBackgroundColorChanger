@@ -1,0 +1,20 @@
+html, body, .wrapper {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-wrapper {
+    text-align: center;
+}
+
+#info {
+    display: block;
+    font-size: 46px;
+}
